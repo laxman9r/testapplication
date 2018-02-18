@@ -5,4 +5,10 @@ package com.example.laxman1.myapplication2;
  */
 
 public class test {
+
+
+    public void test(){
+        
+    }
+
 }
